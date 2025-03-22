@@ -31,4 +31,4 @@ Explore the interactive visualization:
 ## 💻 How to Run the Project
 1. Clone the repo:
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/Teja2121/e_commerce_dashboard.git>
